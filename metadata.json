@@ -1,0 +1,7 @@
+{
+  "name": "Netrasakhi - AI Healthcare Screening",
+  "description": "An AI-assisted screening tool for early detection of nutritional deficiencies and skin diseases, designed for rural healthcare empowerment and ASHA worker support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
